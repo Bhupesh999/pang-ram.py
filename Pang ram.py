@@ -12,4 +12,8 @@ def is pang ram(str)
     return True
 
 #programmer code
-string="
+string="QUICK ZEPHYRS BLOW, VEXING DAFT JIM"
+if(ispangram(string)==True):
+   print("yes")
+else:
+   print("no")
